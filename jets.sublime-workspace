@@ -1,0 +1,491 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fou",
+				"fourMomenta"
+			],
+			[
+				"GetE",
+				"GetEntriesFast"
+			],
+			[
+				"Get",
+				"GetPdgCode() const	Int_t"
+			],
+			[
+				"AliAnalysisTaskEmcalJ",
+				"AliAnalysisTaskEmcalJetSample"
+			],
+			[
+				"Ali",
+				"AliVVertex"
+			],
+			[
+				"std",
+				"std::endl"
+			],
+			[
+				"fE",
+				"fEvent"
+			],
+			[
+				"Add",
+				"AddTaskJets"
+			],
+			[
+				"for",
+				"for	For Loop"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"cla",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"cl",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"clan",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"clang",
+				"SublimeClang: Clear cache"
+			],
+			[
+				"Package Cont",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"WebSequenceDiagrams"
+			],
+			[
+				"Cscope: ",
+				"Cscope: Look up symbol"
+			],
+			[
+				"lint",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/andy/.cache/.fr-Xy3eMr/Rivet-2.1.2beta2/src/Projections/Sphericity.cc",
+		"/home/andy/.cache/.fr-2a5060/Rivet-2.1.2beta2/src/Projections/FParameter.cc",
+		"/home/andy/.cache/.fr-lmyYMR/Rivet-2.1.2beta2/src/Projections/FoxWolframMoments.cc",
+		"/home/andy/.cache/.fr-98ABE6/Rivet-2.1.2beta2/src/Projections/JetShape.cc",
+		"/home/andy/.cache/.fr-7iC4Su/Rivet-2.1.2beta2/src/Projections/Thrust.cc",
+		"/home/andy/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/AliAnalysisTaskEmcalJetSample.cxx",
+		"/home/andy/.config/sublime-text-2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/home/andy/.config/sublime-text-2/Packages/ScopeHunter/scope_hunter.sublime-settings",
+		"/home/andy/.config/sublime-text-2/Packages/User/scope_hunter.sublime-settings",
+		"/home/andy/.config/sublime-text-2/Packages/User/C++.sublime-settings",
+		"/home/andy/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/andy/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/andy/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/andy/Coursera/Rprog/rprog-data-ProgAssignment3-data/rankall.R",
+		"/home/andy/.cache/.fr-CyS8gd/OEBPS/WileySD_templateV4.5.css",
+		"/var/tmp/kdecache-andy/krun/17421.0.doku.php",
+		"/home/andy/Desktop/C++/hilbert/hilbert_c2i.cc",
+		"/home/andy/Downloads/Discussing the Future of C++ (Rapperswil Meeting)-Event.ics",
+		"/var/tmp/kdecache-andy/krun/14918.0.interpreter",
+		"/home/andy/Downloads/going",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/UserTasks/AliAnalysisTaskChargedJetsPA.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/macros/files_esd.txt",
+		"<untitled 148>",
+		"/home/andy/Calendar/ISOTDAQ2014-Event.ics",
+		"/home/andy/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/andy/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/andy/Calendar/Direct Measurement of the Higgs Boson Fermionic Couplings at CMS-Event.ics",
+		"/home/andy/Calendar/ATLAS results on Higgs boson searches in fermion final states-Event.ics",
+		"/home/andy/Calendar/First results from the LUX Dark Matter Experiment-Event.ics",
+		"/home/andy/Calendar/Matter-Antimatter Differences using Muons:  D0 Result on anomalous Dimuon Charge Asymmetry using Full Tevatron Data Set-Event.ics",
+		"/home/andy/Calendar/Particle Production and binary scaling in p-Pb collisions at the LHC-Event.ics",
+		"/home/andy/Desktop/test-filters.svg",
+		"/home/andy/Desktop/first2.svg",
+		"/home/andy/testarea/Kludges.h",
+		"/opt/alice/aliroot/v5-05-14-AN/build/include/AliAnalysisTaskEmcal.h",
+		"/opt/alice/aliroot/v5-05-14-AN/build/include/AliVEvent.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/STEER/ESD/AliESDEvent.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/build/include/AliESDEvent.h",
+		"/home/andy/.config/sublime-text-2/Packages/Automatic Backups/Automatic Backups.sublime-settings",
+		"/home/andy/.config/sublime-text-2/Packages/User/Automatic Backups.sublime-settings",
+		"/home/andy/.config/sublime-text-2/Packages/Automatic Backups/Default (Linux).sublime-keymap",
+		"/home/andy/f421511424.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/build/include/CLHEP/Vector/LorentzVector.icc",
+		"/opt/alice/aliroot/v5-05-14-AN/build/include/AliVParticle.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/UserTasks/AliAnalysisTaskHJetEmbed.cxx",
+		"/opt/alice/alice-env.sh",
+		"/home/andy/.config/sublime-text-2/Packages/SublimeClang/Default.sublime-keymap",
+		"/tmp/TMath.h",
+		"/home/andy/Desktop/Temp_happy_laptop/andy/Desktop/afs.cern.ch/afs4/alowe/testarea/17.0.6/PhysicsAnalysis/AnalysisCommon/UserAnalysis/UserAnalysis/EventShapes.h",
+		"/tmp/PWG-JE-Event.ics",
+		"/home/andy/.config/sublime-text-2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/home/andy/.config/sublime-text-2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/AliAnalysisTaskEmcalJetSample.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/UserTasks/AliAnalysisTaskHJetEmbed.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWG/EMCAL/macros/AddTaskEmcalPhysicsSelection.C",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWG/EMCAL/AliEmcalPhysicsSelectionTask.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWG/EMCAL/AliEmcalPhysicsSelectionTask.cxx",
+		"/home/andy/Desktop/analysis-tutorial/TaskSE/run1.C",
+		"/opt/alice/aliroot/v5-05-14-AN/src/ANALYSIS/AliPhysicsSelectionTask.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/ANALYSIS/AliPhysicsSelectionTask.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/build/include/AliAnalysisTaskEmcalJet.h",
+		"/opt/alice/aliroot/v5-05-14-AN/build/include/AliLog.h",
+		"/opt/alice/aliroot/v5-05-14-AN/build/include/AliAnalysisTaskSE.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/macros/AddTaskChargedJetsPA.C",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/AliJetResponseMaker.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/UserTasks/AliAnalysisTaskEmcalDiJetBase.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/UserTasks/AliAnalysisTaskJetMatching.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/UserTasks/AliAnalysisTaskEmcalJetTriggerQA.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/UserTasks/AliAnalysisTaskSAJF.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/UserTasks/AliAnalysisTaskSAJF.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/UserTasks/AliAnalysisTaskChargedJetsPA.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/UserTasks/AliAnalysisTaskFullpAJets.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/build/include/AliEmcalContainer.h",
+		"/home/andy/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/andy/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/macros/foo",
+		"/home/andy/.config/sublime-text-2/Packages/SublimeClang/Context.sublime-menu",
+		"/home/andy/.config/sublime-text-2/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/home/andy/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-keymap",
+		"/home/andy/.config/sublime-text-2/Packages/Sublimerge Pro/Default (Linux).sublime-keymap",
+		"/opt/alice/NcS7",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWG/EMCAL/AliAnalysisTaskEmcal.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWG/EMCAL/AliAnalysisTaskEmcal.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/AliEmcalJetTask.h",
+		"/home/andy/.config/sublime-text-2/Packages/User/bh_core.sublime-settings",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/AliAnalysisTaskEmcalJet.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/macros/AddTaskJetPreparation.C",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/macros/runEMCalJetAnalysis.C",
+		"/home/andy/testarea/Numeric.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/macros/AddTaskEmcalJetSample.C",
+		"/opt/alice/aliroot/v5-05-14-AN/src/test/gun/runtest.sh",
+		"/home/andy/Desktop/analysis-tutorial/TaskSE/jetana.C",
+		"/opt/alice/aliroot/v5-05-14-AN/build/Makefile",
+		"/opt/alice/aliroot/v5-05-14-AN/src/ANALYSIS/macros/AddTaskCentrality.C",
+		"/opt/alice/aliroot/v5-05-14-AN/src/ANALYSIS/AliCentralitySelectionTask.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/src/STEER/ESD/AliMultiplicity.cxx",
+		"/opt/alice/aliroot/v5-05-14-AN/src/STEER/ESD/AliMultiplicity.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/ITS/AliITSMultReconstructor.h",
+		"/opt/alice/aliroot/v5-05-14-AN/src/JETAN/macros/testFastJet.C",
+		"/opt/alice/aliroot/v5-05-14-AN/src/HMPID/AliHMPIDPIDEfficiencyV0AnalysisTask.h",
+		"/home/andy/cscope/+50",
+		"/home/andy/Desktop/analysis-tutorial/TaskSE/AliAnalysisTaskPt.cxx",
+		"/home/andy/Desktop/analysis-tutorial/TaskSE/AliAnalysisTaskPt.h",
+		"/home/andy/Desktop/analysis-tutorial/TaskSE/AliAnalysisTaskPtMC.cxx",
+		"/home/andy/Desktop/analysis-tutorial/TaskSE/AliAnalysisTaskPtMC.h",
+		"/home/andy/Desktop/analysis-tutorial/TaskSE/ConfigJetAnalysis.C",
+		"/home/andy/Desktop/analysis-tutorial/TaskSE/files.txt",
+		"/home/andy/Desktop/analysis-tutorial/TaskSE/outputs_valid",
+		"/home/andy/Desktop/analysis-tutorial/TaskSE/run2.C",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/macros/AddTaskJets.C",
+		"/home/andy/Desktop/analysis-tutorial/TaskSE/run3.C",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/macros/AddTaskJetsFinder.C",
+		"/home/andy/Downloads/fastjet-2.4.0/include/fastjet/ClusterSequenceActiveAreaExplicitGhosts.hh",
+		"/home/andy/Downloads/fastjet-2.4.0/plugins/usage_examples/run_jet_finder.cc",
+		"/home/andy/Downloads/fastjet-2.4.0/example/fastjet_example.cc",
+		"/home/andy/Downloads/fastjet-2.4.0/example/fastjet_timing.cc",
+		"/home/andy/Downloads/fastjet-2.4.0/example/fastjet_subjets.cc",
+		"/home/andy/Downloads/CGAL-3.3.1/src/CGALPDB/PDB_Protein_pdb.cpp",
+		"/home/andy/Downloads/CGAL-3.3.1/src/CGALPDB/PDB_Model.cpp",
+		"/home/andy/Downloads/CGAL-3.3.1/src/CGALPDB/PDB_Residue.cpp",
+		"/home/andy/Downloads/CGAL-3.3.1/src/CGALPDB/PDB_PDB.cpp",
+		"/home/andy/Downloads/CGAL-3.3.1/src/CGALPDB/PDB_Residue_data.cpp",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/macros/AnalysisTrainPWGJets.C",
+		"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/macros/examples/pythia6FastjetExample.C",
+		"/home/andy/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+		"/home/andy/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/andy/.cache/.fr-ADtT80/analysis-tutorial/TaskSE/AliAnalysisTaskPt.cxx"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sanity",
+			"_fourmoment",
+			"_fourmom",
+			"qtvect",
+			"boost(",
+			"sumpt",
+			"sumB",
+			"sumb",
+			"sumB",
+			"hep2",
+			"hep2v",
+			"twove",
+			"cross",
+			"fillt",
+			"qtvect",
+			"_fourmomenta",
+			"fourmomenta(",
+			"~",
+			"boost(",
+			"fourmomenta(",
+			"fourmom",
+			"_F",
+			"tr",
+			"sphe",
+			"norma",
+			"solve",
+			"normali",
+			"compute",
+			"track",
+			"fjet",
+			"ftrack",
+			"compute",
+			"_the",
+			" fwm",
+			"find",
+			" fwm",
+			"pico",
+			"histos",
+			"T\"",
+			"T",
+			"nan",
+			" fwm",
+			"debug",
+			" fwm",
+			"fwmEi",
+			"nan",
+			"isnan",
+			"compute",
+			"boost(",
+			"boost",
+			"fourmomenta(",
+			"fourmomenta",
+			" fwm",
+			"fwm",
+			"size()",
+			"detect_sl",
+			"fwmei",
+			"maxterm",
+			"fwm",
+			"fwmei",
+			"tracks",
+			"ftracks",
+			"ftrack",
+			"ftracks",
+			"fwmj",
+			"fjets",
+			"ei",
+			"evtei",
+			"eventsh",
+			"i have",
+			"acceptjet",
+			"acceptj",
+			"*gev",
+			"truefl",
+			"gev",
+			"tagmc",
+			"flavo",
+			"tag",
+			"qgta",
+			"\"B\"",
+			"btag",
+			"qgt",
+			"result",
+			"qgta",
+			"qgt",
+			"sanity",
+			"radialpa",
+			"qgt",
+			"radialpa",
+			"QGta",
+			"part-",
+			"QGtag",
+			"QGtag2",
+			"QG",
+			"emcaljet",
+			"pdg",
+			"jet",
+			"stack",
+			"QGtag",
+			"tag",
+			"gqt",
+			"stack",
+			"AliSt",
+			"AliESDtrack",
+			"track",
+			"AliPicoTrack",
+			"nprim",
+			"scheme",
+			"track",
+			"picot",
+			"alivtrack",
+			"MC",
+			"tack",
+			"stack",
+			"ismc",
+			"stack",
+			"rc",
+			"Stack",
+			"userexec",
+			"mc",
+			"mgr",
+			"received",
+			"event",
+			"InputEvent",
+			"mcpart",
+			"initeve",
+			"initi",
+			"mcpart"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"AliPicoTrack",
+			"AliESDtrack",
+			"AliPicoTrack",
+			";",
+			"CLHEP::twopi",
+			"CLHEP::pi",
+			"Pi",
+			"AliEmcalJet",
+			"TClonesArray",
+			"AliEmcalJet",
+			"ctrl+'",
+			";",
+			"",
+			"alt+'",
+			"alt+\\",
+			"alt+d",
+			"super+alt+d",
+			"alt+d",
+			"super+alt+d",
+			"alt+c",
+			"alt+shift+",
+			"(new ",
+			"(",
+			";",
+			"PRINT(0);",
+			"PRINT(NULL);",
+			"PRINT(NULL)",
+			"; PRINT();",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 256.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/opt/alice/aliroot/v5-05-14-AN/src/PWGJE/EMCALJetTasks/AliAnalysisTaskEmcalJetSample.cxx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true
+}
